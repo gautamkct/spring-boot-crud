@@ -1,0 +1,26 @@
+INSERT INTO department (id, dept_name) VALUES (1, 'Depatment1');
+INSERT INTO department (id, dept_name) VALUES (2, 'Depatment2');
+INSERT INTO department (id, dept_name) VALUES (3, 'Depatment3');
+INSERT INTO department (id, dept_name) VALUES (4, 'Depatment4');
+INSERT INTO department (id, dept_name) VALUES (5, 'Depatment5');
+
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee1','2021-01-23',10000.00,1);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee2','2021-01-23',10000.00,5);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee3','2021-01-23',10000.00,1);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee4','2021-01-23',10000.00,4);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee5','2021-01-23',10000.00,1);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee6','2021-01-23',10000.00,4);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee7','2021-01-23',10000.00,1);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee8','2021-01-23',10000.00,1);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee9','2021-01-23',10000.00,2);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee10','2021-01-23',10000.00,3);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee11','2021-01-23',10000.00,5);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee12','2021-01-23',10000.00,1);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee13','2021-01-23',10000.00,4);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee14','2021-01-23',10000.00,2);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee15','2021-01-23',10000.00,2);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee16','2021-01-23',10000.00,1);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee17','2021-01-23',10000.00,4);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee18','2021-01-23',10000.00,4);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee19','2021-01-23',10000.00,5);
+INSERT INTO employee (emp_name,doj,salary,department_id) VALUES ('Employee20','2021-01-23',10000.00,5);
