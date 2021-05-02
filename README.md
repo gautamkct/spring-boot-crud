@@ -1,4 +1,4 @@
-This application demonstrate live example for following functions.
+This application demonstrate Spring boot CRUD live example.
 
 1. Get All Employees - GET - /employees
 2. Get Specific Employee - GET - /employees/{empid}
